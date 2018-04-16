@@ -1,4 +1,5 @@
 #!/bin/bash
 
 set -ex
-sleep 300
+echo 1
+sleep 120
