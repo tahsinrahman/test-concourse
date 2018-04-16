@@ -5,8 +5,5 @@ image_resource:
   source:
     repository: ubuntu
 
-inputs:
-- name: test-concourse
-
 run:
   path: test-concourse/hack/concourse/test.sh
